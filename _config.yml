@@ -22,7 +22,7 @@ title: Ahmed's Blog
 email: tanbir.sagar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog will implement and explain algorithms from scratch.
-baseurl: "blog" # the subpath of your site, e.g. /blog
+baseurl: /blog # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamtanbirsagar
 github_username:  iamtanbirahmed
