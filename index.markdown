@@ -5,6 +5,8 @@ layout: "post"
 title: Welcome to Ahmed's Blog
 ---
 
+{% include image.html file="blog_images.png" %}
+
 
 This blog will implement and explain algorithms from scratch. Every week or so I post new algorithms explaining what is happenning under the hood. Keep in mind I am also learning while writting about this. Any kind of suggesstions is appreciated.
 
